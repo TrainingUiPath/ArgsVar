@@ -1,0 +1,41 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vIntYearBorn&Sequence_2",
+        "vIntAge&Sequence_2",
+        "vDateDateBorn&Sequence_2",
+        "vStrDateBorn&Sequence_2",
+        "vStrName&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ShowInformation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "test&Sequence_3",
+        "vDtTableUsers&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_PahtFile",
+        "in_Name",
+        "in_Age"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
